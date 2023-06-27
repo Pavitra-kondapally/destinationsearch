@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.title {
+  font-family: 'Roboto';
+  color: #0f172a;
+}
+.search-image {
+  height: 30px;
+  width: 30px;
+}
+.app-container {
+  text-align: left;
+}
